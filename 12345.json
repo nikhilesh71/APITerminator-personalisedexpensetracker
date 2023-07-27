@@ -127,81 +127,144 @@
     "category": "Food",
     "amount": 600
   },{
-    "date": "2023/05/03",
+    "date": "2022/12/28",
     "refNumber": "77162631",
-    "transactionDetails": "UPI/Foodtruck co.",
-    "category": "Utilities",
+    "transactionDetails": "Cafe",
+    "category": "Food",
     "amount": 200
   },
   {
-    "date": "2023/04/01",
+    "date": "2022/12/23",
     "refNumber": "77162632",
-    "transactionDetails": "UPI/ApolloPayments co.",
+    "transactionDetails": "Apollo Payments",
     "category": "Health",
     "amount": 3000
   },
     {
-    "date": "2023/05/01",
-    "refNumber": "77162632",
-    "transactionDetails": "UPI/Myntra co.",
-    "category": "Utilities",
-    "amount": 200
+    "date": "2022/12/15",
+    "refNumber": "77162633",
+    "transactionDetails": "University Fee",
+    "category": "Education",
+    "amount":20000
   },
     {
-    "date": "2023/04/25",
-    "refNumber": "77162633",
-    "transactionDetails": "UPI/Flipkart co.",
-    "category": "Utilities",
+    "date": "2022/12/10",
+    "refNumber": "77162634",
+    "transactionDetails": "Movies",
+    "category": "Miscellaneous",
     "amount": 600
   },
     {
-    "date": "2023/04/24",
-    "refNumber": "77162634",
-    "transactionDetails": "UPI/JNTUPayments co.",
-    "category": "Education",
-    "amount": 500
-  },
-    {
-    "date": "2023/04/22",
+    "date": "2022/11/24",
     "refNumber": "77162635",
-    "transactionDetails": "UPI/Ajio co.",
-    "category": "Utilities",
-    "amount": 800
+    "transactionDetails": "Indigo Airways",
+    "category": "Travel",
+    "amount": 4000
   },
     {
-    "date": "2023/04/20",
+    "date": "2022/11/15",
     "refNumber": "77162636",
-    "transactionDetails": "UPI/Carz co.",
-    "category": "Utilities",
-    "amount": 1000
-  },
-    {
-    "date": "2023/04/19",
-    "refNumber": "77162637",
-    "transactionDetails": "UPI/MakemyTrip co.",
-    "category": "Travel",
-    "amount": 1000
-  },
-    {
-    "date": "2023/04/03",
-    "refNumber": "77162638",
-    "transactionDetails": "UPI/Foodtruck co.",
-    "category": "Utilities",
-    "amount": 200
-  },
-    {
-    "date": "2023/04/01",
-    "refNumber": "77162639",
-    "transactionDetails": "UPI/Merchant co.",
+    "transactionDetails": "Gas",
     "category": "Utilities",
     "amount": 800
   },
     {
-    "date": "2023/03/02",
-    "refNumber": "77162640",
-    "transactionDetails": "UPI/Irctc co.",
+    "date": "2022/11/10",
+    "refNumber": "77162637",
+    "transactionDetails": "Tution Fee",
+    "category": "Education",
+    "amount": 3000
+  },
+    {
+    "date": "2022/10/25",
+    "refNumber": "77162638",
+    "transactionDetails": "Carz",
     "category": "Travel",
-    "amount": 395
-  }
+    "amount": 1000
+  },
+    {
+    "date": "2022/10/22",
+    "refNumber": "77162639",
+    "transactionDetails": "Paradise Biryani",
+    "category": "Food",
+    "amount": 1500
+  },
+    {
+    "date": "2022/10/12",
+    "refNumber": "77162640",
+    "transactionDetails": "Bus",
+    "category": "Travel",
+    "amount": 800
+  },
+    {
+    "date": "2022/09/27",
+    "refNumber": "77162641",
+    "transactionDetails": "Apollo pharmacy",
+    "category": "Health",
+    "amount": 890
+  },
+    {
+    "date": "2022/09/20",
+    "refNumber": "77162642",
+    "transactionDetails": "Apple store",
+    "category": "Shopping",
+    "amount": 90000
+  },
+    {
+    "date": "2022/09/15",
+    "refNumber": "77162643",
+    "transactionDetails": "  College fee",
+    "category": "Education",
+    "amount": 40000
+  },
+    {
+    "date": "2022/09/10",
+    "refNumber": "77162644",
+    "transactionDetails": "House rent",
+    "category": "Rentals",
+    "amount": 14000
+  },
+    {
+    "date": "2022/09/07",
+    "refNumber": "77162645",
+    "transactionDetails": "Uber",
+    "category": "Travel",
+    "amount": 1000
+  },
+    {
+    "date": "2022/08/24",
+    "refNumber": "77162646",
+    "transactionDetails": "Indigo Airways",
+    "category": "Travel",
+    "amount": 70000
+  },
+    {
+    "date": "2022/08/20",
+    "refNumber": "77162647",
+    "transactionDetails": "Ola",
+    "category": "Travel",
+    "amount": 300
+  },
+    {
+    "date": "2022/08/10",
+    "refNumber": "77162648",
+    "transactionDetails": "Puma",
+    "category": "Shopping",
+    "amount": 3000
+  },
+    {
+    "date": "2022/07/28",
+    "refNumber": "77162649",
+    "transactionDetails": "Gokhana",
+    "category": "Food",
+    "amount": 900
+  },
+    {
+    "date": "2022/07/27",
+    "refNumber": "77162650",
+    "transactionDetails": "Laptop",
+    "category": "Shopping",
+    "amount": 50000
+  },
   ]
 }
