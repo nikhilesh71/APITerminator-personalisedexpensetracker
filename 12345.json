@@ -115,11 +115,11 @@
     "category": "Utilities",
     "amount": 1300
   },{
-    "date": "2023/05/08",
+    "date": "2023/06/06",
     "refNumber": "77162629",
-    "transactionDetails": "UPI/JNTUK co.",
-    "category": "Education",
-    "amount": 5000
+    "transactionDetails": "UPI/IGP co.",
+    "category": "Utilities",
+    "amount": 2000
   },{
     "date": "2023/05/05",
     "refNumber": "77162630",
@@ -132,5 +132,76 @@
     "transactionDetails": "UPI/Foodtruck co.",
     "category": "Utilities",
     "amount": 200
-  }]
+  },
+  {
+    "date": "2023/04/01",
+    "refNumber": "77162632",
+    "transactionDetails": "UPI/ApolloPayments co.",
+    "category": "Health",
+    "amount": 3000
+  },
+    {
+    "date": "2023/05/01",
+    "refNumber": "77162632",
+    "transactionDetails": "UPI/Myntra co.",
+    "category": "Utilities",
+    "amount": 200
+  },
+    {
+    "date": "2023/04/25",
+    "refNumber": "77162633",
+    "transactionDetails": "UPI/Flipkart co.",
+    "category": "Utilities",
+    "amount": 600
+  },
+    {
+    "date": "2023/04/24",
+    "refNumber": "77162634",
+    "transactionDetails": "UPI/JNTUPayments co.",
+    "category": "Education",
+    "amount": 500
+  },
+    {
+    "date": "2023/04/22",
+    "refNumber": "77162635",
+    "transactionDetails": "UPI/Ajio co.",
+    "category": "Utilities",
+    "amount": 800
+  },
+    {
+    "date": "2023/04/20",
+    "refNumber": "77162636",
+    "transactionDetails": "UPI/Carz co.",
+    "category": "Utilities",
+    "amount": 1000
+  },
+    {
+    "date": "2023/04/19",
+    "refNumber": "77162637",
+    "transactionDetails": "UPI/MakemyTrip co.",
+    "category": "Travel",
+    "amount": 1000
+  },
+    {
+    "date": "2023/04/03",
+    "refNumber": "77162638",
+    "transactionDetails": "UPI/Foodtruck co.",
+    "category": "Utilities",
+    "amount": 200
+  },
+    {
+    "date": "2023/04/01",
+    "refNumber": "77162639",
+    "transactionDetails": "UPI/Merchant co.",
+    "category": "Utilities",
+    "amount": 800
+  },
+    {
+    "date": "2023/03/02",
+    "refNumber": "77162640",
+    "transactionDetails": "UPI/Irctc co.",
+    "category": "Travel",
+    "amount": 395
+  }
+  ]
 }
