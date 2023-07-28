@@ -6,25 +6,25 @@
   "transaction": [{
     "date": "2023/07/27",
     "refNumber": "77162611",
-    "transactionDetails": "MakeMyTrip",
+    "transactionDetails": "booking.com",
     "category": "Travel",
     "amount": 2000
   },{
     "date": "2023/07/22",
     "refNumber": "77162612",
-    "transactionDetails": "Bus Charges",
+    "transactionDetails": "British airways",
     "category": "Travel",
     "amount": 300
   },{
     "date": "2023/07/20",
     "refNumber": "77162613",
-    "transactionDetails": "Rent Charge",
+    "transactionDetails": "Novotel",
     "category": "Hotel",
     "amount": 400
   },{
     "date": "2023/06/22",
     "refNumber": "77162614",
-    "transactionDetails": "Myntra Payment",
+    "transactionDetails": "Wholesale",
     "category": "Shopping",
     "amount": 500
   },{
@@ -36,25 +36,25 @@
   },{
     "date": "2023/07/15",
     "refNumber": "77162616",
-    "transactionDetails": "Metro Charges",
+    "transactionDetails": "Uber",
     "category": "Travel",
     "amount": 200
   },{
     "date": "2023/06/19",
     "refNumber": "77162617",
-    "transactionDetails": "GoKhana",
+    "transactionDetails": "Anoki Cuisine",
     "category": "Dining",
     "amount": 300
   },{
    "date": "2023/06/13",
     "refNumber": "77162618",
-    "transactionDetails": "Flight Charges",
+    "transactionDetails": "British airways",
     "category": "Travel",
     "amount": 3500
   },{
     "date": "2023/06/22",
     "refNumber": "77162619",
-    "transactionDetails": "Udupi payments",
+    "transactionDetails": "The Ledbury",
     "category": "Dining",
     "amount": 400
   },{
@@ -66,58 +66,58 @@
   },{
      "date": "2023/05/17",
     "refNumber": "77162621",
-    "transactionDetails": "Flipkart payment",
+    "transactionDetails": "Amazon",
     "category": "Shopping",
     "amount": 2000
   },
   {
     "date": "2023/05/12",
     "refNumber": "77162622",
-    "transactionDetails": "GoKhana purchase",
+    "transactionDetails": "The Kitchin",
     "category": "Dining",
     "amount": 200
   },{
     "date": "2023/04/20",
     "refNumber": "77162623",
-    "transactionDetails": "Apollo Hospital",
+    "transactionDetails": "Royal Berkshire Hospital",
     "category": "Health",
     "amount": 8000
   },{
     "date": "2023/04/15",
     "refNumber": "77162624",
-    "transactionDetails": "Go ibibo",
+    "transactionDetails": "British Airways",
     "category": "Travel",
     "amount": 2000
   },
   {
     "date": "2023/03/28",
     "refNumber": "77162625",
-    "transactionDetails": "Igp gifts",
+    "transactionDetails": "Marks and Spencer",
     "category": "Shopping",
     "amount": 3000
   },{
     "date": "2023/03/25",
     "refNumber": "77162626",
-    "transactionDetails": "Medplus",
+    "transactionDetails": "Total health",
     "category": "Health",
     "amount": 1000
   },
   {
     "date": "2023/02/25",
     "refNumber": "77162627",
-    "transactionDetails": "Irctc",
+    "transactionDetails": "EasyJet",
     "category": "Travel",
     "amount": 1360
   },{
     "date": "2023/02/10",
     "refNumber": "77162628",
-    "transactionDetails": "IGP gifts",
+    "transactionDetails": "ebay",
     "category": "Shopping",
     "amount": 1500
   },{
     "date": "2023/01/09",
     "refNumber": "77162629",
-    "transactionDetails": "Oyo payment",
+    "transactionDetails": "Novotel",
     "category": "Hotel",
     "amount": 2000
   },{
@@ -136,7 +136,7 @@
   {
     "date": "2022/12/23",
     "refNumber": "77162632",
-    "transactionDetails": "Apollo Payments",
+    "transactionDetails": "Kingston hospital",
     "category": "Health",
     "amount": 3000
   },
@@ -157,7 +157,7 @@
     {
     "date": "2022/11/24",
     "refNumber": "77162635",
-    "transactionDetails": "Indigo Airways",
+    "transactionDetails": "British Airways",
     "category": "Travel",
     "amount": 4000
   },
@@ -178,14 +178,14 @@
     {
     "date": "2022/10/25",
     "refNumber": "77162638",
-    "transactionDetails": "Carz",
+    "transactionDetails": "Trip advisor",
     "category": "Travel",
     "amount": 1000
   },
     {
     "date": "2022/10/22",
     "refNumber": "77162639",
-    "transactionDetails": "Paradise Biryani",
+    "transactionDetails": "The Ledbury",
     "category": "Dining",
     "amount": 1500
   },
@@ -199,7 +199,7 @@
     {
     "date": "2022/09/27",
     "refNumber": "77162641",
-    "transactionDetails": "Apollo pharmacy",
+    "transactionDetails": "Total Health",
     "category": "Health",
     "amount": 890
   },
@@ -234,21 +234,21 @@
     {
     "date": "2022/08/24",
     "refNumber": "77162646",
-    "transactionDetails": "Indigo Airways",
+    "transactionDetails": "British Airways",
     "category": "Travel",
     "amount": 70000
   },
     {
     "date": "2022/08/20",
     "refNumber": "77162647",
-    "transactionDetails": "Ola",
+    "transactionDetails": "Uber",
     "category": "Travel",
     "amount": 300
   },
     {
     "date": "2022/08/10",
     "refNumber": "77162648",
-    "transactionDetails": "Puma",
+    "transactionDetails": "Nike",
     "category": "Shopping",
     "amount": 3000
   },
