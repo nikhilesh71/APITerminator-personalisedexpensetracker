@@ -43,7 +43,7 @@
     "date": "2023/06/19",
     "refNumber": "77162617",
     "transactionDetails": "Anoki Cuisine",
-    "category": "Dining",
+    "category": "dining",
     "amount": 300
   },{
    "date": "2023/06/13",
@@ -55,7 +55,7 @@
     "date": "2023/06/22",
     "refNumber": "77162619",
     "transactionDetails": "The Ledbury",
-    "category": "Dining",
+    "category": "dining",
     "amount": 400
   },{
     "date": "2023/05/18",
@@ -74,7 +74,7 @@
     "date": "2023/05/12",
     "refNumber": "77162622",
     "transactionDetails": "The Kitchin",
-    "category": "Dining",
+    "category": "dining",
     "amount": 200
   },{
     "date": "2023/04/20",
@@ -124,13 +124,13 @@
     "date": "2023/01/01",
     "refNumber": "77162630",
     "transactionDetails": "Bakers stop",
-    "category": "Dining",
+    "category": "dining",
     "amount": 600
   },{
     "date": "2022/12/28",
     "refNumber": "77162631",
     "transactionDetails": "Cafe",
-    "category": "Dining",
+    "category": "dining",
     "amount": 200
   },
   {
@@ -186,7 +186,7 @@
     "date": "2022/10/22",
     "refNumber": "77162639",
     "transactionDetails": "The Ledbury",
-    "category": "Dining",
+    "category": "dining",
     "amount": 1500
   },
     {
@@ -256,7 +256,7 @@
     "date": "2022/07/28",
     "refNumber": "77162649",
     "transactionDetails": "Gokhana",
-    "category": "Dining",
+    "category": "dining",
     "amount": 900
   },
     {
