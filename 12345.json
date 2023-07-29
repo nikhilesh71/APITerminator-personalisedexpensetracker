@@ -7,37 +7,37 @@
     "date": "2023/07/27",
     "refNumber": "77162611",
     "transactionDetails": "booking.com",
-    "category": "Travel",
+    "category": "travel",
     "amount": 2000
   },{
     "date": "2023/07/22",
     "refNumber": "77162612",
     "transactionDetails": "British airways",
-    "category": "Travel",
+    "category": "travel",
     "amount": 300
   },{
     "date": "2023/07/20",
     "refNumber": "77162613",
     "transactionDetails": "Novotel",
-    "category": "Hotel",
+    "category": "hotel",
     "amount": 400
   },{
     "date": "2023/06/22",
     "refNumber": "77162614",
     "transactionDetails": "Wholesale",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 500
   },{
     "date": "2023/07/20",
     "refNumber": "77162615",
     "transactionDetails": "Book Store",
-    "category": "Education",
+    "category": "education",
     "amount": 1500
   },{
     "date": "2023/07/15",
     "refNumber": "77162616",
     "transactionDetails": "Uber",
-    "category": "Travel",
+    "category": "travel",
     "amount": 200
   },{
     "date": "2023/06/19",
@@ -49,7 +49,7 @@
    "date": "2023/06/13",
     "refNumber": "77162618",
     "transactionDetails": "British airways",
-    "category": "Travel",
+    "category": "travel",
     "amount": 3500
   },{
     "date": "2023/06/22",
@@ -61,13 +61,13 @@
     "date": "2023/05/18",
     "refNumber": "77162620",
     "transactionDetails": "Shoppers stop",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 1000
   },{
      "date": "2023/05/17",
     "refNumber": "77162621",
     "transactionDetails": "Amazon",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 2000
   },
   {
@@ -86,14 +86,14 @@
     "date": "2023/04/15",
     "refNumber": "77162624",
     "transactionDetails": "British Airways",
-    "category": "Travel",
+    "category": "travel",
     "amount": 2000
   },
   {
     "date": "2023/03/28",
     "refNumber": "77162625",
     "transactionDetails": "Marks and Spencer",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 3000
   },{
     "date": "2023/03/25",
@@ -106,19 +106,19 @@
     "date": "2023/02/25",
     "refNumber": "77162627",
     "transactionDetails": "EasyJet",
-    "category": "Travel",
+    "category": "travel",
     "amount": 1360
   },{
     "date": "2023/02/10",
     "refNumber": "77162628",
     "transactionDetails": "ebay",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 1500
   },{
     "date": "2023/01/09",
     "refNumber": "77162629",
     "transactionDetails": "Novotel",
-    "category": "Hotel",
+    "category": "hotel",
     "amount": 2000
   },{
     "date": "2023/01/01",
@@ -144,7 +144,7 @@
     "date": "2022/12/15",
     "refNumber": "77162633",
     "transactionDetails": "University Fee",
-    "category": "Education",
+    "category": "education",
     "amount":20000
   },
     {
@@ -158,7 +158,7 @@
     "date": "2022/11/24",
     "refNumber": "77162635",
     "transactionDetails": "British Airways",
-    "category": "Travel",
+    "category": "travel",
     "amount": 4000
   },
     {
@@ -172,14 +172,14 @@
     "date": "2022/11/10",
     "refNumber": "77162637",
     "transactionDetails": "Tution Fee",
-    "category": "Education",
+    "category": "education",
     "amount": 3000
   },
     {
     "date": "2022/10/25",
     "refNumber": "77162638",
     "transactionDetails": "Trip advisor",
-    "category": "Travel",
+    "category": "travel",
     "amount": 1000
   },
     {
@@ -193,7 +193,7 @@
     "date": "2022/10/12",
     "refNumber": "77162640",
     "transactionDetails": "Bus",
-    "category": "Travel",
+    "category": "travel",
     "amount": 800
   },
     {
@@ -207,14 +207,14 @@
     "date": "2022/09/20",
     "refNumber": "77162642",
     "transactionDetails": "Apple store",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 90000
   },
     {
     "date": "2022/09/15",
     "refNumber": "77162643",
     "transactionDetails": "  College fee",
-    "category": "Education",
+    "category": "education",
     "amount": 40000
   },
     {
@@ -228,28 +228,28 @@
     "date": "2022/09/07",
     "refNumber": "77162645",
     "transactionDetails": "Uber",
-    "category": "Travel",
+    "category": "travel",
     "amount": 1000
   },
     {
     "date": "2022/08/24",
     "refNumber": "77162646",
     "transactionDetails": "British Airways",
-    "category": "Travel",
+    "category": "travel",
     "amount": 70000
   },
     {
     "date": "2022/08/20",
     "refNumber": "77162647",
     "transactionDetails": "Uber",
-    "category": "Travel",
+    "category": "travel",
     "amount": 300
   },
     {
     "date": "2022/08/10",
     "refNumber": "77162648",
     "transactionDetails": "Nike",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 3000
   },
     {
@@ -263,7 +263,7 @@
     "date": "2022/07/27",
     "refNumber": "77162650",
     "transactionDetails": "Laptop",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 50000
   },
   ]
