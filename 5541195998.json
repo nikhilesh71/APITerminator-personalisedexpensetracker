@@ -1,0 +1,292 @@
+{
+"id": 5541195998,
+"name": "Davies",
+"card": 703102483241,
+"transaction": [{
+	"date": "2023/07/23",
+	"refNumber": "40980724",
+	"transactionDetails": "British Airways",
+	"category": "travel",
+	"amount": 5900
+},
+{
+	"date": "2023/07/21",
+	"refNumber": "10778111",
+	"transactionDetails": "Uber Eats",
+	"category": "dining",
+	"amount": 150
+},
+{
+	"date": "2023/07/16",
+	"refNumber": "77378045",
+	"transactionDetails": "Zara",
+	"category": "shopping",
+	"amount": 450
+},
+{
+	"date": "2023/07/08",
+	"refNumber": "66058188",
+	"transactionDetails": "Nike",
+	"category": "shopping",
+	"amount": 679
+},
+{
+	"date": "2023/07/01",
+	"refNumber": "22066140",
+	"transactionDetails": "New London Cafe",
+	"category": "dining",
+	"amount": 568
+},
+{
+	"date": "2023/06/28",
+	"refNumber": "38867277",
+	"transactionDetails": "Uber",
+	"category": "travel",
+	"amount": 35
+},
+{
+	"date": "2023/06/24",
+	"refNumber": "38867277",
+	"transactionDetails": "British Airways",
+	"category": "travel",
+	"amount": 7634
+},
+{
+	"date": "2023/06/19",
+	"refNumber": "24770255",
+	"transactionDetails": "UCL Cafe",
+	"category": "dining",
+	"amount": 245
+},
+{
+	"date": "2023/06/16",
+	"refNumber": "28508315",
+	"transactionDetails": "Uber",
+	"category": "travel",
+	"amount": 25
+},
+{
+	"date": "2023/06/09",
+	"refNumber": "99957681",
+	"transactionDetails": "Gas",
+	"category": "Utilities",
+	"amount": 320
+},
+{
+	"date": "2023/06/07",
+	"refNumber": "22748172",
+	"transactionDetails": "Forex transaction",
+	"category": "transaction",
+	"amount": 1200
+},
+{
+	"date": "2023/06/06",
+	"refNumber": "10778111",
+	"transactionDetails": "Forex transaction fee",
+	"category": "fee",
+	"amount": 45
+},
+{
+	"date": "2023/06/01",
+	"refNumber": "77378045",
+	"transactionDetails": "Nike",
+	"category": "shopping",
+	"amount": 380
+},
+{
+	"date": "2023/05/27",
+	"refNumber": "66058188",
+	"transactionDetails": "Watch",
+	"category": "shopping",
+	"amount": 776
+},
+{
+	"date": "2023/04/16",
+	"refNumber": "22066140",
+	"transactionDetails": "British Airways",
+	"category": "travel",
+	"amount": 8990
+},
+{
+	"date": "2023/04/14",
+	"refNumber": "38867277",
+	"transactionDetails": "Coffee",
+	"category": "dining",
+	"amount": 20
+},
+{
+	"date": "2023/04/12",
+	"refNumber": "30868277",
+	"transactionDetails": "Uber",
+	"category": "travel",
+	"amount": 72
+},
+{
+	"date": "2023/03/19",
+	"refNumber": "22748172",
+	"transactionDetails": "Forex transaction",
+	"category": "transaction",
+	"amount": 600
+},
+{
+	"date": "2023/02/13",
+	"refNumber": "10778111",
+	"transactionDetails": "Forex transaction fee",
+	"category": "fee",
+	"amount": 24
+},
+{
+	"date": "2023/01/25",
+	"refNumber": "85957680",
+	"transactionDetails": "Easy London",
+	"category": "groceries",
+	"amount": 988
+},
+{
+	"date": "2022/12/21",
+	"refNumber": "90957681",
+	"transactionDetails": "British Airways",
+	"category": "travel",
+	"amount": 2390
+},
+{
+	"date": "2022/12/11",
+	"refNumber": "79957687",
+	"transactionDetails": "Uber",
+	"category": "travel",
+	"amount": 74
+},
+{
+	"date": "2022/12/03",
+	"refNumber": "19957690",
+	"transactionDetails": "Easy London",
+	"category": "groceries",
+	"amount": 777
+},
+{
+	"date": "2022/11/27",
+	"refNumber": "86360527",
+	"transactionDetails": "Tution fee",
+	"category": "education",
+	"amount": 78000
+},
+{
+	"date": "2022/11/22",
+	"refNumber": "21976879",
+	"transactionDetails": "Hospital",
+	"category": "health",
+	"amount": 552
+},
+{
+	"date": "2022/11/12",
+	"refNumber": "29596879",
+	"transactionDetails": "Gas",
+	"category": "Utilities",
+	"amount": 670
+},
+{
+	"date": "2022/11/01",
+	"refNumber": "22748172",
+	"transactionDetails": "Forex transaction",
+	"category": "transaction",
+	"amount": 200
+},
+{
+	"date": "2022/10/23",
+	"refNumber": "10778111",
+	"transactionDetails": "Forex transaction fee",
+	"category": "fee",
+	"amount": 8
+},
+{
+	"date": "2022/10/11",
+	"refNumber": "83420911",
+	"transactionDetails": "pharmacy",
+	"category": "health",
+	"amount": 93
+},
+{
+	"date": "2022/10/02",
+	"refNumber": "12889437",
+	"transactionDetails": "Easy London",
+	"category": "groceries",
+	"amount": 744
+},
+{
+	"date": "2022/09/20",
+	"refNumber": "54589332",
+	"transactionDetails": "British Airwayss",
+	"category": "travel",
+	"amount": 3899
+},
+{
+	"date": "2022/09/12",
+	"refNumber": "33399908",
+	"transactionDetails": "Coffee",
+	"category": "dining",
+	"amount": 40
+},
+{
+	"date": "2022/09/02",
+	"refNumber": "22748172",
+	"transactionDetails": "Forex transaction",
+	"category": "transaction",
+	"amount": 700
+},
+{
+	"date": "2022/08/29",
+	"refNumber": "10778111",
+	"transactionDetails": "Forex transaction fee",
+	"category": "fee",
+	"amount": 28
+},
+{
+	"date": "2022/08/20",
+	"refNumber": "33398076",
+	"transactionDetails": "Easy London",
+	"category": "groceries",
+	"amount": 997
+},
+{
+	"date": "2022/08/12",
+	"refNumber": "96675433",
+	"transactionDetails": "House rent",
+	"category": "rentals",
+	"amount": 330
+},
+{
+	"date": "2022/08/08",
+	"refNumber": "12375433",
+	"transactionDetails": "Gifts",
+	"category": "miscellaneous",
+	"amount": 80
+},
+{
+	"date": "2022/08/02",
+	"refNumber": "44444880",
+	"transactionDetails": "London Resort",
+	"category": "hotels",
+	"amount": 559
+},
+{
+	"date": "2022/07/31",
+	"refNumber": "33498543",
+	"transactionDetails": "Uber",
+	"category": "travel",
+	"amount": 50
+},
+{
+	"date": "2022/07/27",
+	"refNumber": "12229908",
+	"transactionDetails": "Easy London",
+	"category": "groceries",
+	"amount": 670
+},
+{
+	"date": "2022/07/23",
+	"refNumber": "43347896",
+	"transactionDetails": "Gifts",
+	"category": "miscellaneous",
+	"amount": 130
+}]
+}
