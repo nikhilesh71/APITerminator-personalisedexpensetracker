@@ -2,246 +2,246 @@
 {
   "id": 2353534564,
   "name": "Taylor",
-  "card": 3231 2233 5412 2344,
+  "card": 3231223354122344,
   "transaction": [{
     "date": "2023/06/23",
     "refNumber": "77162250",
     "transactionDetails": "Stylight",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 500
   },{
     "date": "2023/06/23",
     "refNumber": "77162249",
     "transactionDetails": "Uber Eats",
-    "category": "food",
+    "category": "dining",
     "amount": 90
   },{
     "date": "2023/06/22",
     "refNumber": "77162248",
     "transactionDetails": "Supper",
-    "category": "food",
+    "category": "dining",
     "amount": 80
   },{
     "date": "2023/06/20",
     "refNumber": "77162247",
     "transactionDetails": "JACKJONES",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 150
   },{
     "date": "2023/06/19",
     "refNumber": "77162246",
-    "transactionDetails": "Uber Eats",
-    "category": "food",
-    "amount": 120
+    "transactionDetails": "forex transaction",
+    "category": "transaction",
+    "amount": 1000
   },{
     "date": "2023/06/17",
     "refNumber": "77162245",
-    "transactionDetails": "AirBnb",
-    "category": "Travel",
-    "amount": 1000
+    "transactionDetails": "forex transaction fee",
+    "category": "fee",
+    "amount": 40
   },{
     "date": "2023/06/15",
     "refNumber": "77162244",
-    "transactionDetails": "Books crown",
-    "category": "Education",
-    "amount": 1200
+    "transactionDetails": "forex transaction",
+    "category": "transaction",
+    "amount": 900
   },{
     "date": "2023/06/09",
     "refNumber": "77162243",
-    "transactionDetails": "Crayo Saloon",
-    "category": "Utilities",
-    "amount": 450
+    "transactionDetails": "forex transaction fee",
+    "category": "fee",
+    "amount": 36
   },{
     "date": "2023/06/01",
     "refNumber": "77162242",
     "transactionDetails": "Coverstory",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 1300
   },{
     "date": "2023/05/20",
     "refNumber": "77162241",
     "transactionDetails": "Uber",
-    "category": "Travel",
+    "category": "travel",
     "amount": 50
   },{
     "date": "2023/05/15",
     "refNumber": "77162240",
     "transactionDetails": "Pizza Hut",
-    "category": "food",
+    "category": "dining",
     "amount": 200
   },{
     "date": "2023/05/01",
     "refNumber": "77162239",
     "transactionDetails": "London Bridge Hospital",
-    "category": "Health",
+    "category": "health",
     "amount": 1000
   },{
     "date": "2023/04/23",
     "refNumber": "77162238",
     "transactionDetails": "Apple",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 1100
   },{
     "date": "2023/04/13",
     "refNumber": "77162237",
     "transactionDetails": "Sainsbury",
-    "category": "Grocery",
+    "category": "grocery",
     "amount": 50
   },{
     "date": "2023/04/02",
     "refNumber": "77162236",
     "transactionDetails": "CK",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 199
   },{
     "date": "2023/03/30",
     "refNumber": "77162235",
-    "transactionDetails": "Self drive",
-    "category": "Car Rentals",
+    "transactionDetails": "forex transaction",
+    "category": "transaction",
     "amount": 120
   },{
     "date": "2023/03/13",
     "refNumber": "77162234",
-    "transactionDetails": "MK",
-    "category": "Shopping",
+    "transactionDetails": "forex transaction fee",
+    "category": "fee",
     "amount": 300
   },{
     "date": "2023/03/01",
     "refNumber": "77162233",
     "transactionDetails": "University of London",
-    "category": "Education",
+    "category": "education",
     "amount": 20000
   },{
     "date": "2023/02/26",
     "refNumber": "77162232",
     "transactionDetails": "Addly's De Salon",
-    "category": "Utilities",
+    "category": "utilities",
     "amount": 450
   },{
     "date": "2023/01/10",
     "refNumber": "77162231",
     "transactionDetails": "MAC",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 1300
   },{
     "date": "2022/12/30",
     "refNumber": "77162230",
     "transactionDetails": "Kier Group",
-    "category": "General contractors",
+    "category": "general contractors",
     "amount": 150
   },{
     "date": "2022/12/25",
     "refNumber": "77162229",
     "transactionDetails": "Darwin Lake",
-    "category": "food",
+    "category": "dining",
     "amount": 400
   },{
     "date": "2022/12/13",
     "refNumber": "77162228",
     "transactionDetails": "louis vuitton",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 300
   },{
     "date": "2022/11/23",
     "refNumber": "77162227",
     "transactionDetails": "The Royal London Hospital",
-    "category": "Health",
+    "category": "health",
     "amount": 670
   },{
     "date": "2022/11/12",
     "refNumber": "77162226",
-    "transactionDetails": "Whole Foods market",
-    "category": "Grocery",
+    "transactionDetails": "Whole dinings market",
+    "category": "grocery",
     "amount": 80
   },{
     "date": "2022/11/10",
     "refNumber": "77162225",
-    "transactionDetails": "Bond Street",
-    "category": "Shopping",
-    "amount": 1280
+    "transactionDetails": "forex transaction",
+    "category": "transaction",
+    "amount": 300
   },{
     "date": "2022/10/30",
     "refNumber": "77162224",
-    "transactionDetails": "Uber Eats",
-    "category": "food",
-    "amount": 120
+    "transactionDetails": "forex transaction fee",
+    "category": "fee",
+    "amount": 12
   },{
     "date": "2022/10/29",
     "refNumber": "77162223",
     "transactionDetails": "Kayak.co",
-    "category": "Travel",
+    "category": "travel",
     "amount": 960
   },{
     "date": "2022/10/13",
     "refNumber": "77162222",
     "transactionDetails": "University of London",
-    "category": "Education",
+    "category": "education",
     "amount": 20000
   },{
     "date": "2022/10/02",
     "refNumber": "77162221",
     "transactionDetails": "Crayo Saloon",
-    "category": "Utilities",
+    "category": "utilities",
     "amount": 450
   },{
     "date": "2022/09/28",
     "refNumber": "77162220",
     "transactionDetails": "Coverstory",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 300
   },{
     "date": "2022/09/19",
     "refNumber": "77162219",
     "transactionDetails": "Uber",
-    "category": "Travel",
+    "category": "travel",
     "amount": 50
   },{
     "date": "2022/09/15",
     "refNumber": "77162218",
-    "transactionDetails": "Whole Foods Market",
-    "category": "Grocery",
+    "transactionDetails": "Whole dinings Market",
+    "category": "grocery",
     "amount": 80
   },{
     "date": "2022/09/01",
     "refNumber": "77162217",
     "transactionDetails": "Pizza Hut",
-    "category": "food",
+    "category": "dining",
     "amount": 120
   },{
     "date": "2022/08/27",
     "refNumber": "77162216",
     "transactionDetails": "AirBnb",
-    "category": "Travel",
+    "category": "travel",
     "amount": 399
   },{
     "date": "2022/08/15",
     "refNumber": "77162215",
     "transactionDetails": "Kier Group",
-    "category": "General Contractors",
+    "category": "general contractors",
     "amount": 150
   },{
     "date": "2022/08/14",
     "refNumber": "77162214",
-    "transactionDetails": "Whole Foods Market",
-    "category": "Grocery",
+    "transactionDetails": "Whole dinings Market",
+    "category": "grocery",
     "amount": 69
   },{
     "date": "2022/07/30",
     "refNumber": "77162213",
     "transactionDetails": "CK",
-    "category": "Shopping",
+    "category": "shopping",
     "amount": 1300
   },{
     "date": "2022/07/25",
     "refNumber": "77162212",
     "transactionDetails": "Trainline",
-    "category": "Travel",
+    "category": "travel",
     "amount": 100
   },{
     "date": "2022/07/24",
     "refNumber": "77162211",
     "transactionDetails": "Uber Eats",
-    "category": "food",
+    "category": "dining",
     "amount": 50
   }]
 }
